@@ -23,7 +23,7 @@ import com.furru.dto.BookingDTO;
 import com.furru.dto.DestinationDTO;
 import com.furru.service.BookingService;
 
-
+//edit
 @CrossOrigin
 @RestController
 @RequestMapping("BookingAPI")
